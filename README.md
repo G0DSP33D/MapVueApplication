@@ -2,7 +2,11 @@
 
 This project is a web-based application developed using Vue.js, integrated with Google Maps API. The application provides users with a rich, interactive interface to search for locations, view them on a map, and retrieve relevant time zone information.
 
-Key Features:
+
+![plot](https://github.com/G0DSP33D/MapVueApplication/blob/main/Demonstration.png)
+
+
+**Key Features**
 
 Interactive Map: The application includes an interactive map powered by Google Maps. Users can visualize locations on the map, with each location marked by a pin. The API is called by using Axios.
 
