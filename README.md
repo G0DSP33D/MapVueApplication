@@ -1,6 +1,6 @@
 # Map-Vue-Application
 
-This project is a web-based application developed using Vue.js, integrated with Google Maps API. The application provides users with a rich, interactive interface to search for locations, view them on a map, and retrieve relevant time zone information.
+This project is a web-based application developed using Vue.js (Vue2), integrated with Google Maps API. The application provides users with a rich, interactive interface to search for locations, view them on a map, and retrieve relevant time zone information.
 
 
 ![plot](https://github.com/G0DSP33D/MapVueApplication/blob/main/Demonstration.png)
@@ -25,6 +25,8 @@ Error Handling: Adequate error handling is implemented to alert the user in case
 Vue.js and Vuetify: The project is built using Vue.js, utilizing the Vuetify library to provide pre-designed Vue components for faster UI development.
 
 ## Project setup
+
+Go to this folder and perform the following commands
 ```
 npm install
 ```
@@ -33,7 +35,7 @@ npm install
 ```
 npm run serve
 ```
-
+Information regarding where the website is hosted will be displayed in the terminal.
 ### Compiles and minifies for production
 ```
 npm run build
